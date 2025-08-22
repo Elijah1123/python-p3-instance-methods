@@ -7,3 +7,10 @@ class Person:
 
     def walk(self):
         print("The person is walking.")
+
+
+Mzalendo = Person()
+Mzalendo.talk()
+
+Mzalendo = Person()
+Mzalendo.walk()
